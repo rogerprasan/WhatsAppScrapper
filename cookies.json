@@ -1,0 +1,12 @@
+[
+  {
+    "domain": ".web.whatsapp.com",
+    "expiry": 1721720709,
+    "httpOnly": false,
+    "name": "wa_web_lang_pref",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "en_GB"
+  }
+]
